@@ -13,3 +13,6 @@ When adding a new Python target, please remember to perform all the following ta
 * add the new target to _PYTHON_ALL_IMPLS and update the patterns in _python_impl_supported() in python-utils-r1.eclass.
 
 * add the new implementation to the list in app-portage/gpyutils/files/implementations.txt.
+
+
+[Gentoo Wiki](https://dev.gentoo.org/~mgorny/python-guide/interpreter-maintenance.html)
