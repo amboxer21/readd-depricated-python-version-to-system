@@ -14,6 +14,7 @@ When adding a new Python target, please remember to perform all the following ta
 
 * add the new implementation to the list in **`app-portage/gpyutils/files/implementations.txt`**.
 
+# Resources
 
 [Gentoo Wiki](https://dev.gentoo.org/~mgorny/python-guide/interpreter-maintenance.html)
 
