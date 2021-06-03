@@ -17,4 +17,4 @@ When adding a new Python target, please remember to perform all the following ta
 
 [Gentoo Wiki](https://dev.gentoo.org/~mgorny/python-guide/interpreter-maintenance.html)
 
-[youtube video](https://www.youtube.com/watch?v=9dM8bYvpWCc)
+[youtube](https://www.youtube.com/watch?v=9dM8bYvpWCc)
